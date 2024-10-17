@@ -1,2 +1,5 @@
 # README.md
-GIT HUB
+
+bash
+      git init my-commit-repo
+      
